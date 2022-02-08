@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "461349743643",
+    "firebase_url": "https://musicracy-core1.firebaseio.com",
+    "project_id": "musicracy-core1",
+    "storage_bucket": "musicracy-core1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461349743643:android:9471190b6025a4ab3a5cbe",
+        "android_client_info": {
+          "package_name": "com.panchicore.musicracy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461349743643-5g1flhfm56nnuq3bsgpc6sac6tc8cnhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD47JaTzcaOmG3BELLxxZDkR63CdEEZujg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461349743643-5g1flhfm56nnuq3bsgpc6sac6tc8cnhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
